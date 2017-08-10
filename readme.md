@@ -1,6 +1,8 @@
 Pelican theme - Responsive Pelican
 ================================
 
+Lemniscata.com modifications.
+
 Responsive Pelican
 ----------
 
